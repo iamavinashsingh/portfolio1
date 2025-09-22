@@ -52,7 +52,7 @@ To view the portfolio locally, follow these steps:
 ## 🌐 Live Demo
 
 Check out the live version of the portfolio here:
-[Avinash Singh - Portfolio](https://your-live-demo-link.com)
+[Avinash Singh - Portfolio](https://avisportfolio.netlify.app/)
 
 ## 📸 Screenshots
 
